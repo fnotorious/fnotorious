@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Firas <img height="40" src="https://emoji.gg/emoji/8349-cat-rolling"></h1>
 <h3 align="center">A passionate fullstack developer and computer science grad student!</h3>
 
 - 🔭 I’m currently working on **Coursera x IBM: Python for Software Development, Data Science, and AI**
