@@ -54,6 +54,9 @@
 <br>
 
 <p align= "center">
+  
+  ![Firas's Github Stats](https://github-readme-stats.vercel.app/api?username=fnotorious&hide="rank"&show_icons=true&theme=radical)
+  
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnotorious&theme=react&layout=compact" />
 </p>
 
