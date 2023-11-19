@@ -1,5 +1,11 @@
 <h1 align="center"><img height="50" width="60" src="https://cdn3.emoji.gg/emojis/6837-catbread.gif"> Hi 👋, I'm Firas <img height="50" width="60" src="https://cdn3.emoji.gg/emojis/4909-retrotv.gif"></h1>
 <h3 align="center">A passionate fullstack developer and computer science grad student!</h3>
+<h3 align="center">Connect with me on LinkedIn:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-natour-54b28b172/)
+  
+</div>
 
 - 🔭 I’m currently working on **Coursera x IBM: Python for Software Development, Data Science, and AI**
 
@@ -8,13 +14,6 @@
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - ⚡ What I like: **History, languages, folk music ...and coding of course**
-
-<h3 align="center">Connect with me on LinkedIn:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-natour-54b28b172/)
-  
-</div>
 
 <br>
 
